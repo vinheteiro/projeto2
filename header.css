@@ -1,0 +1,22 @@
+.cabeçalho_menu-roupas {
+   width: 24px;
+   height: 24px;
+   background-image: url("../img/Menu.svg");
+   display: inline-block;
+}
+
+.cabeçalho {
+  background-image: var(--branco);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+}
+
+.container_image {
+    padding: 1em;
+}
